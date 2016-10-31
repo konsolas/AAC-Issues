@@ -9,5 +9,7 @@ When creating an issue, please include lots and lots of detail. Videos are prefe
 
 If your explanation is too vague, or the issue can't be reproduced, then your issue will be closed.
 
+The AAC Test Server is currently public and is at **aac3.kons.co**
+
 ## Notice board
 - Currently holding a poll about a possible slack organisation. http://www.strawpoll.me/11547661
