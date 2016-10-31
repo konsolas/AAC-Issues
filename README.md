@@ -8,3 +8,6 @@ When creating an issue, please include lots and lots of detail. Videos are prefe
 - Explanation of how to reproduce the issue.
 
 If your explanation is too vague, or the issue can't be reproduced, then your issue will be closed.
+
+## Notice board
+- Currently holding a poll about a possible slack organisation. http://www.strawpoll.me/11547661
