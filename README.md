@@ -12,4 +12,4 @@ If your explanation is too vague, or the issue can't be reproduced, then your is
 The AAC Test Server is currently public and is at **aac3.kons.co**
 
 ## Notice board
-- Currently holding a poll about a possible slack organisation. http://www.strawpoll.me/11547661
+- Currently holding a new poll about a possible slack or discord chat. Vote at: http://www.strawpoll.me/11559564
