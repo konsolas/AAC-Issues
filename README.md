@@ -15,3 +15,4 @@ The AAC Test Server is currently public and is at **aac3.kons.co**
 - Currently holding a new poll about a possible slack or discord chat. Vote at: http://www.strawpoll.me/11559564
 - Killaura heuristic checks have been finally released. The kick is delayed and the kick reason is "Suspicious (killaura-like) combat".
 - Those with TESTER rank or above can see the pattern detected and violation level in the logs. The violation level causes a delayed ban.
+- 1.8 test server set up by popular request at aac3.kons.co:25566
