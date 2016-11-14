@@ -11,6 +11,8 @@ If your explanation is too vague, or the issue can't be reproduced, then your is
 
 The AAC Test Server is currently public and is at **aac3.kons.co**
 
+### Those who join the test server purely to develop bypasses, without any obvious intention of helping AAC develop, will be removed from the server.
+
 ## Notice board
 - Currently holding a new poll about a possible slack or discord chat. Vote at: http://www.strawpoll.me/11559564
 - Killaura heuristic checks have been finally released. The kick is delayed and the kick reason is "Suspicious (killaura-like) combat".
