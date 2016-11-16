@@ -11,6 +11,8 @@ If your explanation is too vague, or the issue can't be reproduced, then your is
 
 The AAC Test Server is currently public and is at **aac3.kons.co**
 
+A public discord server is available at **https://discord.gg/uc9w2nx**
+
 ### Those who join the test server purely to develop bypasses, without any obvious intention of helping AAC develop, will be removed from the server.
 
 ## Notice board
