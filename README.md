@@ -16,6 +16,4 @@ A public discord server is available at **https://discord.gg/uc9w2nx**
 ### Those who join the test server purely to develop bypasses, without any obvious intention of helping AAC develop, will be removed from the server.
 
 ## Notice board
-- General cleanup and merging of similar checks is in progress.
-- Those with TESTER rank or above can see the pattern detected and violation level in the logs. The violation level causes a delayed ban.
-- 1.8 test server set up by popular request at aac3.kons.co:25566
+- Ground checking has just been rewritten with NMS hitboxes. Should see a significant decrease in false positives on the edge of blocks.
