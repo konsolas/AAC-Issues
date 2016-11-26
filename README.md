@@ -16,4 +16,4 @@ A public discord server is available at **https://discord.gg/uc9w2nx**
 ### Those who join the test server purely to develop bypasses, without any obvious intention of helping AAC develop, will be removed from the server.
 
 ## Notice board
-- Ground checking has just been rewritten with NMS hitboxes. Should see a significant decrease in false positives on the edge of blocks.
+- Ground check rewrite with NMS hitboxes seems to work fine without issues, also on block edges.
