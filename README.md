@@ -17,3 +17,4 @@ A public discord server is available at **https://discord.gg/uc9w2nx**
 
 ## Notice board
 - Ground check rewrite with NMS hitboxes seems to work fine without issues, also on block edges.
+- Poll on java support: http://www.strawpoll.me/11787142
