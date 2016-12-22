@@ -13,10 +13,11 @@ Config URL: THIS IS A SECRET TILL RELEASE.config
 - Fixed AAC Teleport bypass
 - Fixed AAC Fly bypass
 - Fixed various bhop speeds
-- Implemented new killaura heuristics
+- Implemented many new killaura heuristics
 - Combined angle and reach to new hitbox check
 - Implemented cancel_vl_interact into interact check 
 - Implemented cancel_vl_place into interact check
 - Implemented cancel_vl_break into interact check
 - Implemented phase exception list for known MC bugs (anvil, chest and enderchest)
-
+- Completly rewrote impossible interact to account various fuckers and be able to configure different cancel vls
+- Removed annoying forcefield entity as it got useless due to many cheat-clients ignoring it.
