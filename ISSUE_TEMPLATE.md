@@ -1,5 +1,5 @@
-PLEASE read the CONTRIBUTING.md file which is linked above.
-###Issue description
+PLEASE read the guidelines for contributing which is linked above.
+### Issue description
 
 Describe your issue here, please try to structure your
 issue like starting with general things, especially
@@ -12,7 +12,7 @@ Please include details like:
 * Video of the bug / bypass, best with verbose chat output
 * The ingame name of the involved players
 
-###Core information
+### Core information
 **Server version**: insert
 
 **AAC version**: insert
@@ -21,7 +21,7 @@ Please include details like:
 
 **Plugin list**: insert
 
-###Special environment information
+### Special environment information
 Insert 'none' if you don't use it
 
 **ViaVersion version**: insert
