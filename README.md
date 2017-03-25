@@ -16,5 +16,4 @@ A public discord server is available at **https://discord.gg/uc9w2nx**
 ### Those who join the test server purely to develop bypasses, without any obvious intention of helping AAC develop, will be removed from the server.
 
 ## Notice board
-- Ground check rewrite with NMS hitboxes seems to work fine without issues, also on block edges.
-- Poll on java support: http://www.strawpoll.me/11787142
+- Check #494 if your server crashes and the error contains the phrase "getCubes"
