@@ -7,14 +7,20 @@ Large blocks of text should be pasted on https://gist.github.com/ or within mark
 
 ### Core information
 **Server version**: insert
+
 **AAC version**: insert
+
 **ProtocolLib version**: insert
+
 **Plugin list**: insert
 
 ### Special environment information
 **ViaVersion version**: insert (or N/A)
+
 **ProtocolSupport version**: insert (or N/A)
+
 **ViaBackwards version**: insert (or N/A)
+
 **BungeeCord plugins**: insert (or N/A)
 
 ### Configuration
