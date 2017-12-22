@@ -1,6 +1,8 @@
 # AAC-Issues
 AAC Issue Tracker. 
 
+*Please make sure to take a quick search in existing issues before posting your issue.*
+
 When creating an issue, please include lots and lots of detail. Videos are preferred, screenshots and full console logs at the very minimum. The following will also be nessecary:
 - AAC version
 - ProtocolLib version
@@ -17,5 +19,3 @@ A public discord server is available at **https://discord.gg/uc9w2nx**
 
 ## Notice board
 - In case your error contains `ProtocolLib` somewhere, retry with 4.2.0 for 1.8 servers and 4.2.1 for 1.9-1.11 servers.
-- AAC for 1.12 servers might need some time, some stability things are likely considered more important.
-- Please make sure to take a quick search in existing issues before posting your issue.
