@@ -58,8 +58,24 @@ Alternatively the dummy AAC API is also available in a maven repository:
             <artifactId>aac-api</artifactId>
             <version>3.3.0</version>
         </dependency>
-´´´
+```
+
+### AAC Debug logging
 
 
+#### AAC 3.3.4+
+If enabled, AAC will log check specific data and many player actions from all online players into a debug log file inside `plugins/AAC/`.
 
+_WARNING: AAC debug logging can generate really huge files._
 
+You can toggle the debugging state with `/aacdebug`, everytime debug is disabled a new debug file will be generated.
+A debug log is especially useful for movement related issues.
+
+#### Up to AAC 3.3.3
+A debug log shows extended information on what AAC is doing.
+AAC is capable of debugging one player at a time.
+
+**Start debbuging**: `/aacdebug <player>`, `<player>` needs to be replaced with the name of the player to debug.
+
+**Stop debugging**: `/aacdebug`
+Saves the debug log to `plugins/AAC/`.
