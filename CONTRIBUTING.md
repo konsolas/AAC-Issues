@@ -1,3 +1,5 @@
+**Development is paused currently, more information in the discord.** You can and should still report bugs.
+
 _When creating an issue, please include lots and lots of detail. Videos are preferred, screenshots and full console logs at the very minimum. The following will also be nessecary:_
 - AAC version
 - ProtocolLib version
