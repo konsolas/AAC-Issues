@@ -3,6 +3,8 @@ AAC Issue Tracker.
 
 *Please make sure to take a quick search in existing issues before posting your issue.*
 
+*AAC development is currently paused. You can and should still report bugs.*
+
 When creating an issue, please include lots and lots of detail. Videos are preferred, screenshots and full console logs at the very minimum. The following will also be nessecary:
 - AAC version
 - ProtocolLib version
