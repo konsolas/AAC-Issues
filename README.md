@@ -58,7 +58,7 @@ Alternatively the dummy AAC API is also available in a maven repository:
         <dependency>
             <groupId>de.janmm14</groupId>
             <artifactId>aac-api</artifactId>
-            <version>3.3.0</version>
+            <version>3.3.12</version>
         </dependency>
 ```
 
