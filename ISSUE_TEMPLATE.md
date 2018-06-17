@@ -1,5 +1,5 @@
 ### Issue description
-<!-- AAC development is currently paused. You cn and should still report bugs. -->
+<!-- AAC development is currently paused. You can and should still report bugs. -->
 Please include a detailed description of the issue, instructions to reproduce it, client names/links (if applicable), and a relevant paste from plugins/AAC/logs. Please include as much information as possible, including anything about the environment that may be relevant (e.g. screenshot of the location). A video with (config.yml:verbose -> true) is useful but not required. It should not be substitued for a description.
 
 If you a reporting a console error, take the earliest version in the console log to make sure none of the error is cut off.
