@@ -6,25 +6,26 @@ If you a reporting a console error, take the earliest version in the console log
 Large blocks of text should be pasted on https://gist.github.com/ or within markdown code blocks. -->
 
 ### Core information
-**Server version**: insert
+**Server version**: 
 
-**AAC version**: insert
+**AAC version**: 
 
-**ProtocolLib version**: insert
-
-**Plugin list**: insert
+**ProtocolLib version**: 
+<!-- Plugin list can be left out if you are sure other plugins don't interfer -->
+**Plugin list**: 
 
 ### Special environment information
-**ViaVersion version**: insert (or N/A)
+**ViaVersion version**: ??
 
-**ProtocolSupport version**: insert (or N/A)
+**ProtocolSupport version**: ??
 
-**ViaBackwards version**: insert (or N/A)
+**ViaBackwards version**: ??
 
-**BungeeCord plugins**: insert (or N/A)
+**BungeeCord plugins**: ??
 
 ### Configuration
 <!--Please describe any modifications you have made to the default config. You do not need to include information about the "thresholds" section of any check, unless you are reporting a false kick/ban. 
 
-For the lazy, you may use this [online diff tool](https://www.diffchecker.com/) - make sure you select "Store forever".-->
-<!-- PLEASE WRITE YOUR ISUE DESCRIPTION NOT HERE -->
+For the lazy, you may use this [online diff tool](https://www.diffchecker.com/) - make sure you select "Store forever".
+
+PLEASE DO NOT WRITE YOUR ISSUE DESCRIPTION HERE -->
