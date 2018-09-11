@@ -24,6 +24,7 @@ Large blocks of text should be pasted on https://gist.github.com/ or within mark
 **BungeeCord plugins**: insert (or N/A)
 
 ### Configuration
-Please describe any modifications you have made to the default config. You do not need to include information about the "thresholds" section of any check, unless you are reporting a false kick/ban. 
+<!--Please describe any modifications you have made to the default config. You do not need to include information about the "thresholds" section of any check, unless you are reporting a false kick/ban. 
 
-For the lazy, you may use this [online diff tool](https://www.diffchecker.com/) - make sure you select "Store forever".
+For the lazy, you may use this [online diff tool](https://www.diffchecker.com/) - make sure you select "Store forever".-->
+<!-- PLEASE WRITE YOUR ISUE DESCRIPTION NOT HERE -->
