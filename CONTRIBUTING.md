@@ -1,4 +1,4 @@
-**Do not use hastebin or other time-limited services to psot your logs**
+**Do not use hastebin or other time-limited services to post your logs**
 Suggested alternatives: https://gist.github.com or https://pastebin.com
 
 _When creating an issue, please include lots and lots of detail. Videos are preferred, screenshots and full console logs at the very minimum. The following will also be nessecary:_
