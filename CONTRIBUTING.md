@@ -1,3 +1,5 @@
+**It is currently unknown whether AAC will be continued because the author konsolas is not replying to messages**
+
 **Do not use hastebin or other time-limited services to post your logs**
 Suggested alternatives: https://gist.github.com or https://pastebin.com
 
