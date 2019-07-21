@@ -9,9 +9,9 @@ When creating an issue, please include lots and lots of detail. Videos are prefe
 - Full plugin list
 - Explanation of how to reproduce the issue.
 
-If your explanation is too vague, or the issue can't be reproduced, then your issue will be closed.
+If your explanation is too vague, or the issue can't be reproduced, then your issue will be closed. We might require buyer verification before handling issue reports on individual basis.
 
-The AAC Test Server is currently public and is at **test.kons.co**
+The AAC Test Server is at **test.kons.co**
 
 A public **discord server** is available at **https://discord.gg/uc9w2nx**
 
@@ -21,7 +21,8 @@ A public **discord server** is available at **https://discord.gg/uc9w2nx**
 
 Some links
 - [SpigotMC resource](https://www.spigotmc.org/resources/6442/)
-- [Current AAC default config](https://gist.github.com/konsolas/400c9678e0264fab8d04d84780ec4c63)
+- [Current AAC default config](https://gist.github.com/konsolas/b283c1abcad3fa214d1788769c7c2db1)
+- [AAC 3 default config](https://gist.github.com/konsolas/400c9678e0264fab8d04d84780ec4c63)
 
 ### Conditional Commands
 
