@@ -62,8 +62,7 @@ Alternatively the dummy AAC API is also available in a maven repository:
 
 ### AAC Debug logging
 
-
-#### AAC 3.3.4+
+#### AAC 3.3.4 - 3.6.4
 If enabled, AAC will log check specific data and many player actions from all online players into a debug log file inside `plugins/AAC/`.
 
 _WARNING: AAC debug logging can generate really huge files._
