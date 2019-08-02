@@ -22,6 +22,7 @@ A public **discord server** is available at **https://discord.gg/uc9w2nx**
 Some links
 - [SpigotMC resource](https://www.spigotmc.org/resources/6442/)
 - [Current AAC default config](https://gist.github.com/konsolas/b283c1abcad3fa214d1788769c7c2db1)
+- [AAC 4 default config](https://gist.github.com/konsolas/b283c1abcad3fa214d1788769c7c2db1)
 - [AAC 3 default config](https://gist.github.com/konsolas/400c9678e0264fab8d04d84780ec4c63)
 
 ### Conditional Commands
