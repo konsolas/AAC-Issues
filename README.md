@@ -27,7 +27,7 @@ Some links
 
 ### Conditional Commands
 
-The ConditionalCommands plugin (written by konsolas) allowes you to check certain conditions before another command is issued.
+The ConditionalCommands plugin (written by konsolas) allows you to check certain conditions before another command is issued.
 Possible conditions: ping, tps, time online, server uptime, player count, permission, aacvl, chance
 More information: https://www.spigotmc.org/resources/conditionalcommands.14295/
 
