@@ -21,20 +21,18 @@ When posting logs, please do not use a time-sensitive service.  A recommended al
 ## Server Information:
 
 ### Required:
-**Version:** This server is running Paper version git-Paper-641 (MC: 1.13.2)
-**AAC Version:** 4.0.5
-**ProtocolLib Version:** 4.4.0
+**Version:** 
+**AAC Version:** 
+**ProtocolLib Version:** 
 **Plugin List:**
 <!-- Plugin list can be left out if you are certain other plugins don't interfere, or only have AAC and it's dependencies installed. -->
-```
-Plugins (4): AAC, AACAdditionPro, ConditionalCommands*, ProtocolLib*
-```
+
 
 ### Special:
-**ViaVersion Version:** N/A
-**ProtocolSupport Version:** N/A
-**ViaBackwards Version:** N/A
-**Bungeecord Plugins:** N/A
+**ViaVersion Version:** 
+**ProtocolSupport Version:** 
+**ViaBackwards Version:** 
+**Bungeecord Plugins:** 
 
 ## Configuration:
 <!--
