@@ -21,14 +21,14 @@ A public **discord server** is available at **https://discord.gg/uc9w2nx**
 
 Some links
 - [SpigotMC resource](https://www.spigotmc.org/resources/6442/)
-- [Current AAC default config](https://gist.github.com/konsolas/b283c1abcad3fa214d1788769c7c2db1)
+- [Current AAC 5 default config](https://gist.github.com/konsolas/1ed816ed91996eab7262d95386c1bfa0)
 - [AAC 4 default config](https://gist.github.com/konsolas/b283c1abcad3fa214d1788769c7c2db1)
 - [AAC 3 default config](https://gist.github.com/konsolas/400c9678e0264fab8d04d84780ec4c63)
 
 ### Conditional Commands
 
 The ConditionalCommands plugin (written by konsolas) allows you to check certain conditions before another command is issued.
-Possible conditions: ping, tps, time online, server uptime, player count, permission, aacvl, chance
+Possible conditions: ping, tps, time online, server uptime, player count, permission, aacvl (not aac5), chance
 More information: https://www.spigotmc.org/resources/conditionalcommands.14295/
 
 ### JsonMessageMaker
@@ -58,11 +58,18 @@ Alternatively the dummy AAC API is also available in a maven repository:
         <dependency>
             <groupId>de.janmm14</groupId>
             <artifactId>aac-api</artifactId>
-            <version>4.2.0</version>
+            <version>5.0.0</version>
         </dependency>
 ```
+The API and its version is only updated when the API changes. The available versions are in the file names of the api jars (scroll up).
 
 ### AAC Debug logging
+
+Debug logging can greatly help fixing false positives and bypasses. Consider adding a debug log to your issue, especially when it is about movement.
+
+#### AAC 5.x
+Debug logging can be toggled for all with `/aac debug`. Debug will be printed where you executed the command (your chat or the console).
+Per-player debugging can be toggled with `/aac debug playername`, prefer this over general debug logging. Both are spammy.
 
 #### AAC 3.3.4 - 3.6.4
 If enabled, AAC will log check specific data and many player actions from all online players into a debug log file inside `plugins/AAC/`.
