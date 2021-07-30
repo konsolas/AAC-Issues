@@ -102,7 +102,7 @@ body:
     id: viaversion-version
     attributes:
       label: ViaVersion version
-      description: What version of ViaVersion are you using (use link from `/viaver dump` if possible)?
+      description: What version of ViaVersion are you using (use the link from `/viaver dump` if possible)?
       placeholder: 'https://dump.viaversion.com/3c5a16dfb6f539c24e6967976ce4fcfe71b9efde57ff517062f3e81a2df7895b'
     validations:
       required: false
