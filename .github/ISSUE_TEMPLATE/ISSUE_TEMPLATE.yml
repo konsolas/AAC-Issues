@@ -16,7 +16,7 @@ body:
       options:
         - label: I will paste large blocks of text on https://gist.github.com or put them within \`\`\`markdown code**blocks**\`\`\`.
           required: true
-        - label: I will [search for my issue](https://github.com/konsolas/AAC-Issues/issues) before making one to make sure someone else hasn't already.
+        - label: I will [search for my issue](https://github.com/konsolas/AAC-Issues/issues) before making one to make sure someone else hasn't made one for it already.
           required: true
   - type: textarea
     id: issue-description
