@@ -37,7 +37,7 @@ body:
         3. Look at '....'
         4. Observe the error"
   - type: input
-    id: aaclogs
+    id: aac-logs
     attributes:
       label: AAC logs
       description: Give us a copy of your AAC Logs from `plugins/AAC/logs`! **Do not use hastebin or other time-limited services to post your logs**, we recommend https://gist.github.com or https://pastebin.com.
@@ -45,7 +45,7 @@ body:
     validations:
       required: false
   - type: input
-    id: consolelogs
+    id: console-logs
     attributes:
       label: Console logs
       description: Reporting a console error? Take the earliest version in the console log to make sure none of the errors are cut off. **Do not use hastebin or other time-limited services to post your logs**, we recommend https://gist.github.com or https://pastebin.com.
