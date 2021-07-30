@@ -48,7 +48,7 @@ body:
     id: consolelogs
     attributes:
       label: Console logs
-      description: Reporting a console error? Take the earliest version in the console log to make sure non of the errors are cut off. **Do not use hastebin or other time-limited services to post your logs**, we recommend https://gist.github.com or https://pastebin.com.
+      description: Reporting a console error? Take the earliest version in the console log to make sure none of the errors are cut off. **Do not use hastebin or other time-limited services to post your logs**, we recommend https://gist.github.com or https://pastebin.com.
       placeholder: https://pastebin.com/pHgwejj5
     validations:
       required: false
