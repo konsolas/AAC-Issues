@@ -1,6 +1,6 @@
 name: General Issue
 description: Let us know you ran into an issue so we can fix it!
-title: 'Issue:'
+title: 'Issue: '
 labels: []
 assignees: []
 body:
@@ -141,7 +141,7 @@ body:
     attributes:
       label: Configuration
       description: |
-        "Please describe any modifications you have made to the default config. 
+        "Please describe any modifications you have made to the default config.
         You do not need to include information about the "thresholds" section of any check, unless you are reporting a false kick/ban.
 
         For the lazy, you may use this [online diff tool](https://www.diffchecker.com/) - make sure you select "Store forever""
