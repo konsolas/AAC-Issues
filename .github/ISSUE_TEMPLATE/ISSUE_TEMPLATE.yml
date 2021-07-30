@@ -32,10 +32,10 @@ body:
       description: Help us replicate your issue!
       placeholder: Give us a list of steps to reproduce your issue!
       value: |
-        1. Start the '...'
-        2. Run '....'
-        3. Look at '....'
-        4. Observe the error
+        1. Start '...'
+        2. Do '...'
+        3. Look '...'
+        4. Observe '...'
   - type: input
     id: aac-logs
     attributes:
