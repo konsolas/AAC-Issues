@@ -4,6 +4,10 @@ title: 'Issue:'
 labels: []
 assignees: []
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to create an issue! We use this convenient issue form to make it as straight-forward as possible!
   - type: checkboxes
     id: agreements
     attributes:
@@ -14,10 +18,6 @@ body:
           required: true
         - label: I will [search for my issue](https://github.com/konsolas/AAC-Issues/issues) before making one to make sure someone else hasn't already.
           required: true
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to create an issue! We use this convenient issue form to make it as straight-forward as possible!
   - type: textarea
     id: issue-description
     attributes:
