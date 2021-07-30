@@ -145,8 +145,7 @@ body:
         You do not need to include information about the "thresholds" section of any check, unless you are reporting a false kick/ban.
 
         For the lazy, you may use this [online diff tool](https://www.diffchecker.com/) - make sure you select "Store forever""
-      placeholder: Give us a list of steps to reproduce your issue!
-      value: https://www.diffchecker.com/u6YItAML
+      placeholder: https://www.diffchecker.com/u6YItAML
   - type: textarea
     id: additional-info
     attributes:
