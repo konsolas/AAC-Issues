@@ -61,6 +61,7 @@ Alternatively the dummy AAC API is also available in a maven repository:
             <groupId>de.janmm14</groupId>
             <artifactId>aac-api</artifactId>
             <version>5.0.0</version>
+            <scope>provided</scope>
         </dependency>
 ```
 The API and its version is only updated when the API changes. The available versions are in the file names of the api jars (scroll up).
