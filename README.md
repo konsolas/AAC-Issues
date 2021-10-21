@@ -1,6 +1,8 @@
 # AAC-Issues
 AAC Issue Tracker. 
 
+## Konsolas is currently not working on AAC
+
 *Please make sure to take a quick search in existing issues before posting your issue.*
 
 When creating an issue, please include lots and lots of detail. Videos are preferred, screenshots and full console logs at the very minimum. The following will also be nessecary:
