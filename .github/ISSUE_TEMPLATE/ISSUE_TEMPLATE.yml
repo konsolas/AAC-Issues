@@ -1,0 +1,153 @@
+name: General Issue
+description: Let us know you ran into an issue so we can fix it!
+title: 'Issue: '
+labels: []
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to create an issue! We use this convenient issue form to make it as straight-forward as possible!
+  - type: checkboxes
+    id: agreements
+    attributes:
+      label: Agreements
+      description: Do you agree that you will do the following?
+      options:
+        - label: I will paste large blocks of text on https://gist.github.com or put them within \`\`\`markdown code**blocks**\`\`\`.
+          required: true
+        - label: I will [search for my issue](https://github.com/konsolas/AAC-Issues/issues) before creating one to make sure someone else hasn't made one already.
+          required: true
+  - type: textarea
+    id: issue-description
+    attributes:
+      label: Describe your issue
+      description: Please give us a detailed description of the issue (include client names/links if applicable)!
+    validations:
+      required: true
+  - type: textarea
+    id: reproducing
+    attributes:
+      label: Steps to reproduce
+      description: Help us replicate your issue!
+      placeholder: Give us a list of steps to reproduce your issue!
+      value: |
+        1. Start '...'
+        2. Do '...'
+        3. Look '...'
+        4. Observe '...'
+  - type: input
+    id: aac-logs
+    attributes:
+      label: AAC logs
+      description: Give us a copy of your AAC Logs from `plugins/AAC/logs`! **Do not use hastebin or other time-limited services to post your logs**, we recommend https://gist.github.com or https://pastebin.com.
+      placeholder: https://pastebin.com/pHgwejj5
+    validations:
+      required: false
+  - type: input
+    id: console-logs
+    attributes:
+      label: Console logs
+      description: Reporting a console error? Take the earliest version in the console log to make sure none of the errors are cut off. **Do not use hastebin or other time-limited services to post your logs**, we recommend https://gist.github.com or https://pastebin.com.
+      placeholder: https://pastebin.com/pHgwejj5
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: '## Core Information'
+  - type: input
+    id: server-version
+    attributes:
+      label: Server version
+      description: What server version are you using (use the output from `/version` if possible)?
+      placeholder: 'This server is running Paper version git-Paper-137 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: a67959e)'
+    validations:
+      required: true
+  - type: input
+    id: aac-version
+    attributes:
+      label: AAC version
+      description: What version of AAC are you using (use the output from `/aac` if possible)?
+      placeholder: 'AAC AAC 5.2.0 - https://www.spigotmc.org/resources/6442/'
+    validations:
+      required: true
+  - type: input
+    id: protocollib-version
+    attributes:
+      label: Server version
+      description: What version of ProtocolLib are you using (use the first line from `/protocol version` if possible)?
+      placeholder: 'ProtocolLib v4.7.1-SNAPSHOT-b531'
+    validations:
+      required: true
+  - type: input
+    id: plugin-list
+    attributes:
+      label: Plugin list
+      description: What plugins are you using (use the output from `/plugins` if possible)? This can be left out if you are sure other plugins don't interfere.
+      placeholder: 'Plugins (2): AAC5, ProtocolLib'
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: '## Special environment information'
+  - type: input
+    id: protocolsupport-version
+    attributes:
+      label: ProtocolSupport version
+      description: What version of ProtocolSupport are you using (use the output from `/ps buildinfo` if possible)?
+      placeholder: '[buildtime=2021.07.22 at 01:21:54 MSK, buildhost=https://build.true-games.org, buildnumber=644, buildgit=https://github.com/ProtocolSupport/ProtocolSupport/commit/223096af91e26f4cb619b480cb9eccbd07b0d5bc]'
+    validations:
+      required: false
+  - type: input
+    id: viaversion-version
+    attributes:
+      label: ViaVersion version
+      description: What version of ViaVersion are you using (use the link from `/viaver dump` if possible)?
+      placeholder: 'https://dump.viaversion.com/3c5a16dfb6f539c24e6967976ce4fcfe71b9efde57ff517062f3e81a2df7895b'
+    validations:
+      required: false
+  - type: input
+    id: viabackwards-Version
+    attributes:
+      label: ViaBackwards Version
+      description: What version of ViaBackwards are you using (use the first line from `/version ViaBackwards` if possible)?
+      placeholder: 'ViaBackwards version 4.0.1'
+    validations:
+      required: false
+  - type: input
+    id: bungee-plugin-list
+    attributes:
+      label: BungeeCord plugin list
+      description: What plugins are you using? This can be left out if you are sure other plugins don't interfere.
+      placeholder: 'BungeeGuard 1.2.2, LuckPerms Bungee 5.3.53, Spark 1.6.1'
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Videos & Screenshots
+      description: |
+        Videos and screenshots are really helpful in resolving issues. Some particularly helpful ones are:
+        - A video with (config.yml:verbose -> true) is useful but not required.
+        - A screenshot including anything about the environment that may be relevant (e.g. screenshot of the location).
+      placeholder: https://imgur.com/upload
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: '## Miscellaneous'
+  - type: textarea
+    id: configuration
+    attributes:
+      label: Configuration
+      description: |
+        Please describe any modifications you have made to the default config.
+        You do not need to include information about the "thresholds" section of any check, unless you are reporting a false kick/ban.
+
+        For the lazy, you may use this [online diff tool](https://www.diffchecker.com/) - make sure you select "Store forever"
+      placeholder: https://www.diffchecker.com/u6YItAML
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: If you have any other context or relevant information about the problem (like information about the environment), put it here.
