@@ -1,7 +1,7 @@
 # AAC-Issues
 AAC Issue Tracker. 
 
-## Konsolas is currently not working on AAC
+## Konsolas has stooped working on AAC
 
 *Please make sure to take a quick search in existing issues before posting your issue.*
 
